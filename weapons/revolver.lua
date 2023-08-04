@@ -1,5 +1,5 @@
 local data = {
-  ["print"] = "Hello"
+  ["print"] = "SarvoGeneralNo.1"
 }
 
 return data
