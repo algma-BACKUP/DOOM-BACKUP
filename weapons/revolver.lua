@@ -1,5 +1,5 @@
 local data = {
-  print = "Hello"
+  ["print"] = "Hello"
 }
 
-print("HIII")
+return data
